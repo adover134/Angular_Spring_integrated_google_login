@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/serverdb
+    username: adover
+    password: adover134Adg!
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+server:
+  port: 8080
